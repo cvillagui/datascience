@@ -1,2 +1,0 @@
-# datascience
-Coursera MOOC Toolbox
